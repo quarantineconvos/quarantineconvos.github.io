@@ -1,7 +1,10 @@
+body {
+  background-color: rgb(46, 48, 71);
+}
 .header {
   padding: 30px;
   text-align: center;
-  background: rgb(23,23,23);
+  background: transparent;
   color: white;
   font-size: 15px;
 }
