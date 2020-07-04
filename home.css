@@ -42,7 +42,7 @@ div.title {
 }
 span.a {
   display: inline-block;
-  margin: 35px 15%;
+  margin: 35px 10px 35px 15%;
   width: 350px;
   height: 250px;
   padding: 35px;
@@ -51,7 +51,7 @@ span.a {
 }
 span.b {
   display: inline-block;
-  margin: 35px 15%;
+  margin: 35px 15% 35px 10px;
   width: 350px;
   height: 250px;
   padding: 35px;
