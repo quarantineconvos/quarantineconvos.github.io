@@ -40,5 +40,13 @@ a.white:hover {
 div.title {
   text-indent: 10%;
 }
+span.a {
+  display: inline-block;
+  margin: 35px 15%;
+  width: 100px;
+  height: 100px;
+  padding: 35px;
+  border: 3px solid blue;    
+}
 
 
