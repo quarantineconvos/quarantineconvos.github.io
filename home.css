@@ -43,8 +43,8 @@ div.title {
 span.a {
   display: inline-block;
   margin: 35px 10px 35px 15%;
-  width: 350px;
-  height: 250px;
+  width: 425px;
+  height: 350px;
   padding: 5px;
   border: 3px solid blue;    
   float:left;
@@ -52,8 +52,8 @@ span.a {
 span.b {
   display: inline-block;
   margin: 35px 15% 35px 10px;
-  width: 350px;
-  height: 250px;
+  width: 425px;
+  height: 350px;
   padding: 5px;
   border: 3px solid blue;    
   float:right
