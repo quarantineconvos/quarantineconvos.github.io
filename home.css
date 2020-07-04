@@ -61,6 +61,8 @@ a.white:hover {
   font-family:candara,calibri,cambria;
   text-decoration: underline;
 }
-
+div.title {
+  text-indent: 10%;
+}
 
 
