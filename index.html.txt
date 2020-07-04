@@ -1,0 +1,16 @@
+<!DOCTYPE html> 
+<html>
+<head>
+	<title>Quarantine Conversations </title>
+</head>
+<body>
+<h1> The People's Press </h1>
+<p><strong> Members</strong></p>
+<ul>
+	<li>Quote</li>
+	<li>Dapper</li>
+	<li>Stonks</li>
+</ul>
+
+</body>
+</html>
