@@ -9,6 +9,11 @@ input[type=text], input[type=submit] {
   border: 1px solid #ccc;
   box-sizing: border-box;
 }
+.walls {
+  padding: 20px;
+  background-color: #43455C;
+}
+
 input[type=submit] {
   background-color: #3BBA9C;
   color: white;
