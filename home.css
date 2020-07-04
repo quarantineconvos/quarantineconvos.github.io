@@ -46,16 +46,19 @@
 a.white:link{
   color: white;
   background-color: transparent;
+  font-family:candara,calibri,cambria;
   text-decoration: none;
 }
 a.white:visited{
   color: white;
   background-color: transparent;
+  font-family:candara,calibri,cambria;
   text-decoration: none;
 }
-a:white:hover {
+a.white:hover {
   color: grey;
   background-color: transparent;
+  font-family:candara,calibri,cambria;
   text-decoration: underline;
 }
 
