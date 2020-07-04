@@ -21,7 +21,7 @@ a.white:link{
   background-color: transparent;
   font-family:corbel,candara,calibri,cambria;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 22px;
 }
 a.white:visited{
   color: white;
@@ -35,7 +35,7 @@ a.white:hover {
   background-color: transparent;
   font-family:corbel,candara,calibri,cambria;
   text-decoration: underline;
-  font-size: 18px;
+  font-size: 22px;
 }
 div.title {
   text-indent: 10%;
