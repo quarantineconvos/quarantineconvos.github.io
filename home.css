@@ -43,12 +43,21 @@
 .dropdown-content a:hover {background-color: #ddd}
 .show {display:block;}
 
-
-
-a:hover {
-  color: red;
+a.white:link{
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a.white:visited{
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:white:hover {
+  color: grey;
   background-color: transparent;
   text-decoration: underline;
 }
+
 
 
