@@ -19,20 +19,23 @@ body {
 a.white:link{
   color: white;
   background-color: transparent;
-  font-family:candara,calibri,cambria;
+  font-family:corbel,candara,calibri,cambria;
   text-decoration: none;
+  font-size: 18px;
 }
 a.white:visited{
   color: white;
   background-color: transparent;
-  font-family:candara,calibri,cambria;
+  font-family:corbel,candara,calibri,cambria;
   text-decoration: none;
+  font-size: 18px;
 }
 a.white:hover {
   color: grey;
   background-color: transparent;
-  font-family:candara,calibri,cambria;
+  font-family:corbel,candara,calibri,cambria;
   text-decoration: underline;
+  font-size: 18px;
 }
 div.title {
   text-indent: 10%;
