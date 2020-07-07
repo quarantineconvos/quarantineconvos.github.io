@@ -1,6 +1,12 @@
 <?php
+
+use PHPMailer\PHPMailer\PHPMailer;
+
+require 'PHPMailerAutoload.php';
+$mail = new PHPMailer;
 $name = $_POST['name'];
 $from = "conversationsq@gmail.com";
+
 $to = $_POST['mail'];
 //var_dump($_POST['mail']);
 $subject = "Thank you!";
