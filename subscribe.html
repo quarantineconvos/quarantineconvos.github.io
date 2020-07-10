@@ -6,6 +6,8 @@
 	<link rel="stylesheet" href="home.css">
 	<link rel="stylesheet" href="subscribe.css">
 	<link rel = "icon" href =  "mainlogo1.png" type = "image/x-icon"> 
+	<script src="https://smtpjs.com/v3/smtp.js"></script>
+	<script src="subscribe.js"></script>
 </head>
 <body>
 <div class="header"> 
@@ -14,7 +16,7 @@
 	
 	<img src="logotransparent.png" alt="Quarantine Conversations" class="center">
 	<br><br><br>
-	<p style="text-align:center;word-spacing: 200px;"> <a class="white" href="index.html" > HOME</a> <a class="white" href="about.html" > ABOUT</a> <a class="white" href="subscribe.php">SUBSCRIBE</a> <a class="white" href="submit.html" >SUBMIT</a></p>
+	<p style="text-align:center;word-spacing: 200px;"> <a class="white" href="index.html" > HOME</a> <a class="white" href="about.html" > ABOUT</a> <a class="white" href="subscribe.html">SUBSCRIBE</a> <a class="white" href="submit.html" >SUBMIT</a></p>
 	
 	
 </div>
@@ -22,12 +24,14 @@
 
 <div class="walls"><h1>Subscribe to Our Newsletter!</h1>
 	
-	<form action="subscribe.php" method="post">
+	<form name="emailform" method="post">
 		<input type="text" placeholder="Name" name="name" required><br>
-    		<input type="text" placeholder="Email address" name="mail" required><br>
-		<input type="submit" value ="Subscribe">
+    	<input type="text" placeholder="Email address" name="mail" required><br>
+		<input type="submit" value="Send Email" onclick= "sendEmail()"/>
 		</div>
-		</form>
+	</form>
+	<!--
+		
 		<?php use PHPMailer\PHPMailer\PHPMailer;
 		//require 'PHPMailerAutoload.php'; backup if path/to doesnt work
 		require 'path/to/vendor/autoload.php';
@@ -54,5 +58,7 @@
 		$mail->Subject = "Thank you!"; //Subject of email
 		$mail->Body ="Thank you for subscribing to the Quarantine Conversations newsletter. We hope we exceed the expectations you have for" //Body of email
 		?>
+	-->
+		
 	</body>
 </html>
