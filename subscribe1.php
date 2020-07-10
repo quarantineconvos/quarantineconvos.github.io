@@ -1,3 +1,4 @@
+<!-- This is the standalone php page -->
 <?php
 
 use PHPMailer\PHPMailer\PHPMailer;
