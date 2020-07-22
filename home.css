@@ -1,62 +1,91 @@
 body {
-  background-color: rgb(46, 48, 71);
+    background-color: rgb(46, 48, 71);
 }
-.header {
-  padding: 30px;
-  text-align: center;
-  background: transparent;
-  color: white;
-  font-size: 15px;
+
+header {
+    padding: 30px;
+
+    background: transparent;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+
 }
+
+main h1 {
+    float: left;
+    /* font-family: candara, calibri, cambria;*/
+    color: white;
+
+}
+
+main p {
+    float: left;
+}
+
+main {
+
+    margin-top: 100px;
+}
+
+header img {
+    float: left;
+}
+
+header p {
+    word-spacing: 100px;
+    float: right;
+}
+
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 250px;
+    display: block;
+
+    width: 250px;
 }
 
 
-a.white:link{
-  color: white;
-  background-color: transparent;
-  font-family:corbel,candara,calibri,cambria;
-  text-decoration: none;
-  font-size: 22px;
+
+a.white:link {
+    color: white;
+    background-color: transparent;
+    font-family: corbel, candara, calibri, cambria;
+    text-decoration: none;
+    font-size: 22px;
 }
-a.white:visited{
-  color: white;
-  background-color: transparent;
-  font-family:corbel,candara,calibri,cambria;
-  text-decoration: none;
-  font-size: 22px;
+
+a.white:visited {
+    color: white;
+    background-color: transparent;
+    font-family: corbel, candara, calibri, cambria;
+    text-decoration: none;
+    font-size: 22px;
 }
+
 a.white:hover {
-  color: grey;
-  background-color: transparent;
-  font-family:corbel,candara,calibri,cambria;
-  text-decoration: underline;
-  font-size: 22px;
+    color: grey;
+    background-color: transparent;
+    font-family: corbel, candara, calibri, cambria;
+    text-decoration: underline;
+    font-size: 22px;
 }
-div.title {
-  text-indent: 10%;
-}
+
+
 span.a {
-  display: inline-block;
-  margin: 35px 10px 35px 15%;
-  width: 425px;
-  height: 350px;
-  padding: 5px;
+    display: inline-block;
+    margin: 35px 10px 35px 15%;
+    width: 425px;
+    height: 350px;
+    padding: 5px;
 
-  float:left;
+    float: left;
 }
+
 span.b {
-  display: inline-block;
-  margin: 35px 15% 35px 10px;
-  width: 425px;
-  height: 350px;
-  padding: 5px;
+    display: inline-block;
+    margin: 35px 15% 35px 10px;
+    width: 425px;
+    height: 350px;
+    padding: 5px;
 
-  float:right;
+    float: right;
 }
-
-
