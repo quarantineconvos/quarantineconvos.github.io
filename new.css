@@ -30,13 +30,14 @@ main h1 {
 
 #gallery img {
     height: 270px;
-    width: 380px;
+    width: 380px +calc(7%);
+
 }
 
 .latest {
     display: inline-block;
     margin-top: 20px;
-    padding: 15px;
+    padding: 10px;
 }
 
 /* featured section */
@@ -63,7 +64,8 @@ border-bottom: 2px solid green;
 
 #rightfeat img {
     height: 460px;
-    width: 700px;
+    width: 700px+calc(7%);
+
 }
 
 header {
@@ -71,7 +73,7 @@ header {
 }
 
 .logo {
-    padding: 10px 0;
+    padding: 10px;
     padding-left: 50px;
 }
 
