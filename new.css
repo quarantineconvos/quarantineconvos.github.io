@@ -6,6 +6,7 @@ body {
 .container {
     width: 94%;
     margin: auto;
+    display: inline-block;
 }
 
 
@@ -19,6 +20,11 @@ main {
     margin-left: calc(8%);
 }
 
+/*#featured {
+    display: inline-block;
+}
+*/
+
 main h1 {
     display: inline;
 }
@@ -29,24 +35,24 @@ main h1 {
 }
 
 #gallery img {
-    height: 270px;
-    width: 380px +calc(7%);
+    min-height: 270px;
+    max-height: 405px;
+    min-width: 380px;
+    max-width: 570px;
+
 
 }
 
 .latest {
     display: inline-block;
     margin-top: 20px;
-    padding: 10px;
+    padding: 20px;
 }
 
 /* featured section */
-/*
-#featured {
-    Place holder border just for visualization 
-border-bottom: 2px solid green;
-}
-*/
+
+
+
 #leftfeat {
     display: inline-block;
     margin-left: calc(20%);
@@ -64,7 +70,9 @@ border-bottom: 2px solid green;
 
 #rightfeat img {
     height: 460px;
-    width: 700px+calc(7%);
+    max-height: 493px;
+    min-width: 700px;
+    max-width: 750px;
 
 }
 
@@ -80,6 +88,7 @@ header {
 /*  Nav Section */
 nav {
     float: right;
+    display: inline-block;
 }
 
 nav ul {
