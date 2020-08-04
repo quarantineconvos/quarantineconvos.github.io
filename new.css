@@ -3,6 +3,22 @@ body {
     background-color: #2e3047;
 }
 
+/*Article Stuff*/
+#article {
+    margin-top: calc(5%);
+    margin-left: calc(15%);
+    font-size: 96px;
+
+}
+
+#article h1 {
+    display: block;
+}
+
+
+
+
+
 .container {
     width: 94%;
     margin: auto;
