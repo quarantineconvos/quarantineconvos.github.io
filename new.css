@@ -3,21 +3,43 @@ body {
     background-color: #2e3047;
 }
 
+#basicp {
+    font-family: "Times New Roman", Times, serif;
+    margin: 35px 10%;
+    font-size: 150%;
+}
+
 /*Article Stuff*/
 #article {
-    margin-top: calc(5%);
+    margin-top: calc(0%);
     margin-left: calc(15%);
-    font-size: 96px;
+    font-size: 35px;
 
-}
 
-#article h1 {
-    display: block;
 }
 
 
 
+#article img {
+    float: left;
+    height: 500px;
+    width: 800px;
+}
 
+#lateartic {
+    padding: 20px;
+    float: right;
+    border-left: 2px solid grey;
+}
+
+#imgdesc {
+    padding: 2px;
+}
+
+#lateartic img {
+    width: 290px;
+    height: 200px;
+}
 
 .container {
     width: 94%;
