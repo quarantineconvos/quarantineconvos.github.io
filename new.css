@@ -9,19 +9,43 @@ body {
     font-size: 150%;
 }
 
+
+#ahh {
+    display: block;
+    padding: 20px;
+    position: absolute;
+}
+
 /*Article Stuff*/
 #article {
     margin-top: calc(0%);
-    margin-left: calc(15%);
-    font-size: 35px;
+    margin-left: calc(13%);
 
+
+    float: left;
 
 }
 
 
 
-#article img {
+
+#article h1 {
+    font-size: 35px;
+}
+
+
+#articname {
     float: left;
+    display: inline-block;
+}
+
+#articdate {
+    float: right;
+    display: inline-block;
+}
+
+#article img {
+
     height: 500px;
     width: 800px;
 }
@@ -30,6 +54,8 @@ body {
     padding: 20px;
     float: right;
     border-left: 2px solid grey;
+    display: block;
+
 }
 
 #imgdesc {
