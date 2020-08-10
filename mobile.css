@@ -1,17 +1,5 @@
-#gallery img {
-    width: calc(40%);
-    height: calc(15%);
-}
-
-#rightfeat img {
-    float: right;
-    height: calc(30);
-    width: calc(90%);
-}
-
 #featured {
-    margin-top: 10px;
-
+    display: none;
 }
 
 #leftfeat {
@@ -25,4 +13,38 @@ header {
 body {
     margin: 0;
     background-color: #2e3047;
+}
+
+nav {
+    float: right;
+    display: inline-block;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav.img {
+    display: inline;
+    width: 25px;
+    height: 25px;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 50px;
+    padding-top: 27px;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Verdana;
+}
+
+nav a:hover {
+    color: #3bba9c;
 }
