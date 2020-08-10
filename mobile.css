@@ -1,0 +1,19 @@
+#gallery img {
+    width: calc(40%);
+    height: calc(15%);
+}
+
+#rightfeat img {
+    float: right;
+    height: calc(30);
+    width: calc(90%);
+}
+
+#featured {
+    margin-top: 10px;
+
+}
+
+#leftfeat {
+    float: left;
+}
