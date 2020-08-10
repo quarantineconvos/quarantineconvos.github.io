@@ -20,18 +20,12 @@ body {
 #article {
     margin-top: calc(0%);
     margin-left: calc(13%);
-
     float: left;
-
 }
 
 #article p {
     max-width: 875px;
-
 }
-
-
-
 
 #article h1 {
     font-size: 35px;
