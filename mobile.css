@@ -60,3 +60,7 @@ nav a:hover {
 .class {
     float: center;
 }
+
+.class img {
+    width: calc(75%);
+    height: calc(10%);
