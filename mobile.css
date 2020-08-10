@@ -17,3 +17,12 @@
 #leftfeat {
     float: left;
 }
+
+header {
+    background: #3c3f58;
+}
+
+body {
+    margin: 0;
+    background-color: #2e3047;
+}
