@@ -21,8 +21,12 @@ body {
     margin-top: calc(0%);
     margin-left: calc(13%);
 
-
     float: left;
+
+}
+
+#article p {
+    max-width: 875px;
 
 }
 
@@ -35,12 +39,12 @@ body {
 
 
 #articname {
-    float: left;
+    text-align: left;
     display: inline-block;
 }
 
 #articdate {
-    float: right;
+    text-align: right;
     display: inline-block;
 }
 
