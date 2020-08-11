@@ -98,12 +98,12 @@ main h1 {
 }
 
 #gallery img {
-    /*min-height: 270px;
+    min-height: 270px;
     max-height: 405px;
     min-width: 380px;
-    max-width: 570px;*/
-    width: 27.5%;
-    height: 16.2%;
+    max-width: 570px;
+    /*width: 27.5%;
+    height: 16.2%;*/
 
 
 }
@@ -111,7 +111,7 @@ main h1 {
 .latest {
     display: inline-block;
     margin-top: 20px;
-    padding: 1%;
+    padding: 20px;
 }
 
 /* featured section */
