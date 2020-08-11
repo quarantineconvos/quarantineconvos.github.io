@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>A Time for Reflection</title>
+
+    <link rel="stylesheet" href="new.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <link rel="icon" href="mainlogo1.png" type="image/x-icon">
+    <meta name=viewport content="initial-scale=1">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+
+
+            <img src="qc.png" alt="logo" class="logo">
+
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="submit.html">Submit</a></li>
+                </ul>
+            </nav>
+
+        </div>
+
+    </header>
+    <main>
+        <div id="article">
+
+
+            <div id="ahh">
+                <h1>A Time for Reflection</h1>
+                <p> How quarantine brought about a time to reflect on our current state </p>
+                <div><img src="white1.png" alt="thumbnail"></div>
+                <div id="articname">
+                    <p>Daniel Myrick</p>
+                </div><br>
+                <div id="articdate">
+                    <p> 8/?/2020 </p>
+                </div>
+
+                <div>
+                    <p id="basicp"> paste text here </p>
+                </div>
+            </div>
+
+
+
+        </div>
+
+
+        <div id="lateartic">
+
+            <h2> Reccomended Articles</h2>
+            <div><img src="white1.png">
+                <div class="imgdesc">
+                    <h3> Title</h3><br>
+                    <p> Subtitle </p>
+                </div>
+            </div>
+            <div><img src="white1.png">
+                <div class="imgdesc">
+                    <h3> Title</h3><br>
+                    <p> Subtitle </p>
+                </div>
+            </div>
+            <div><img src="white1.png">
+                <div class="imgdesc">
+                    <h3> Title</h3><br>
+                    <p> Subtitle </p>
+                </div>
+            </div>
+        </div>
+
+    </main>
+</body></html>
