@@ -5,8 +5,9 @@ body {
 
 #basicp {
     font-family: "Times New Roman", Times, serif;
+    line-height: 1.2;
     margin: 35px 10%;
-    font-size: 150%;
+    font-size: 135%;
 }
 
 
