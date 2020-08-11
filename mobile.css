@@ -2,10 +2,6 @@
     display: none;
 }
 
-#leftfeat {
-    float: left;
-}
-
 header {
     background: #3c3f58;
 }
@@ -57,10 +53,10 @@ nav a:hover {
     padding: 10px;
 }
 
-.class {
+#gallery {
     float: center;
 }
 
-.class img {
+#gallery img {
     width: calc(75%);
     height: calc(10%);
