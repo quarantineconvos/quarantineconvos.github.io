@@ -3,10 +3,11 @@ body {
     background-color: #2e3047;
 }
 
-#basicp {
+p.basicp {
     font-family: "Times New Roman", Times, serif;
+    line-height: 1.5;
     margin: 35px 10%;
-    font-size: 150%;
+    font-size: 125%;
 }
 
 
@@ -93,7 +94,7 @@ main h1 {
 
 /* gallery section */
 #gallery {
-    margin-left: calc(7%);
+    margin-left: 5%;
 }
 
 #gallery img {
@@ -101,6 +102,8 @@ main h1 {
     max-height: 405px;
     min-width: 380px;
     max-width: 570px;
+    /*width: 27.5%;
+    height: 16.2%;*/
 
 
 }
