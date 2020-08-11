@@ -80,7 +80,7 @@ main {
 }
 
 #centering {
-    margin-left: calc(8%);
+    margin-left: calc(6.5%);
 }
 
 /*#featured {
@@ -98,12 +98,8 @@ main h1 {
 }
 
 #gallery img {
-    min-height: 270px;
-    max-height: 405px;
-    min-width: 380px;
-    max-width: 570px;
-    /*width: 27.5%;
-    height: 16.2%;*/
+    width: calc(100%);
+    height: calc(80%);
 
 
 }
