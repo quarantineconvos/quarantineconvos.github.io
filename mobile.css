@@ -18,7 +18,7 @@ nav {
 }
 
 #centering {
-    float: center;
+    margin-left: calc(20%);
 }
 
 nav ul {
@@ -55,7 +55,7 @@ nav a:hover {
 }
 
 #gallery {
-    float: center;
+    margin-left: calc(20%);
 }
 
 #gallery img {
