@@ -12,7 +12,7 @@ body {
 }
 
 nav {
-    float: right;
+    float: center;
     display: inline-block;
 }
 
@@ -58,5 +58,6 @@ nav a:hover {
 }
 
 #gallery img {
-    width: calc(75%);
-    height: calc(10%);
+   /* width: calc(75%);
+    height: calc(10%); */
+}
