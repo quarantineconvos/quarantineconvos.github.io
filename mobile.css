@@ -4,6 +4,7 @@
 
 header {
     background: #3c3f58;
+    width: calc(100%);
 }
 
 body {
@@ -60,3 +61,4 @@ nav a:hover {
 #gallery img {
     width: calc(75%);
     height: calc(10%);
+}

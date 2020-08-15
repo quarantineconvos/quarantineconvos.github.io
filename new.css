@@ -98,11 +98,12 @@ main h1 {
 }
 
 #gallery img {
-    width: calc(100%);
+    width: calc(100% +450px);
     height: calc(80%);
 
 
 }
+
 
 .latest {
     display: inline-block;
