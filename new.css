@@ -3,6 +3,30 @@ body {
     background-color: #2e3047;
 }
 
+a.white:link {
+    color: white;
+    background-color: transparent;
+    /*font-family: corbel, candara, calibri, cambria;*/
+    text-decoration: none;
+    /*font-size: 22px;*/
+}
+
+a.white:visited {
+    color: white;
+    background-color: transparent;
+    /*font-family: corbel, candara, calibri, cambria;*/
+    text-decoration: none;
+    /*font-size: 22px;*/
+}
+
+a.white:hover {
+    color: grey;
+    background-color: transparent;
+    /*font-family: corbel, candara, calibri, cambria;*/
+    text-decoration: underline;
+    /*font-size: 22px;*/
+}
+
 p.basicp {
     font-family: "Times New Roman", Times, serif;
     line-height: 1.5;
