@@ -68,3 +68,37 @@ nav a:hover {
     width: calc(75%);
     height: calc(10%);
 }
+
+#lateartic {
+    display: none;
+}
+
+#ahh {
+    display: block;
+    padding: 20px;
+    position: absolute;
+}
+
+#article img {
+    height: calc(30%);
+    width: calc(100%);
+}
+
+#article p {
+    max-width: 875px;
+}
+
+#article h1 {
+    font-size: 35px;
+}
+
+
+#articname {
+    text-align: left;
+    display: inline-block;
+}
+
+#articdate {
+    text-align: right;
+    display: inline-block;
+}
