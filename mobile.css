@@ -28,7 +28,7 @@ nav {
 }
 
 nav ul {
-    margin-top: -15px;
+    margin-top: -25px;
     padding: 0;
     list-style: none;
 }
@@ -80,8 +80,8 @@ nav a:hover {
 }
 
 #article img {
-    height: 600px - calc(50%);
-    width: 500px- calc(50%);
+    height: 400px;
+    width: 500px;
 
 }
 
