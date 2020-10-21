@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>The State of the Movie Industry During COVID-19</title>
+
+    <link rel="stylesheet" href="new.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <link rel="icon" href="mainlogo1.png" type="image/x-icon">
+    <meta name=viewport content="initial-scale=1">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+
+
+            <img src="qc.png" alt="logo" class="logo">
+
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="submit.html">Submit</a></li>
+                </ul>
+            </nav>
+
+        </div>
+
+    </header>
+    <main>
+        <div id="article">
+
+
+            <div id="ahh">
+                <h1>The State of the Movie Industry During COVID-19</h1>
+                <p> The movie industry in the United States is losing quite a bit of money, and efforts to reopen have not been very successful. </p>
+                <div><img src="thumbnail-1.png" alt="thumbnail"></div>
+                <div id="articname">
+                    <p>Eric Porco</p>
+                </div><br>
+                <div id="articdate">
+                    <p> 8/?/2020 </p>
+                </div>
+
+                <div>
+                    <p class="basicp">  Movie theaters across the country and in Howard County started opening last August to very diminishing returns. Cineworld Group, owner of Regal Cinemas, very recently stated that they would be shutting down operations at all theaters in the US starting on October 8th. Theaters nationwide are estimated to lose upwards of $31 billion dollars this year. This is a very difficult time for the movie and theater industry in general. </p>
+                <p class="basicp"> Back in March, when COVID-19 originally became a significant concern in the United States and other parts of the world, movie and TV production around the globe shut down. Around the same period, movie theaters began shutting down, and companies in charge of major releases became worried about sales during the pandemic. Due to such circumstances, the availability of new theatrical releases is at an all-time low. </p>
+                <p class="basicp"> To mitigate losses, theaters started showing older movies for lower prices in hopes of some small profit. One local student commented in an interview, “I think there’s a lot of duality in the situation. I like being able to go to the movies for cheaper because pre-quarantine tickets and condiments were pretty expensive. However, I feel bad for the owners because I imagine that they’re losing a lot of money.” In fact, many theaters may follow Regal’s example and close for good, as the low amount of new releases means that many theaters won’t be able to afford staying open. </p>
+                <p class="basicp"> Theaters having few new releases, which often is their main source of income, means a large part of the revenue generation is gone. This combined with the impact of COVID-19 on customer anxiety paints a grim picture for the future of smaller theaters across the country and the county.</p>
+                <p class="basicp"> Before Regal recently closed, however, AMC and Regal were both open, operating under COVID safety regulations for businesses. Both AMC and Regal require facemasks to be worn by both employees and customers at all times. AMC even simplified menus to lower time spent at concession stands, and both generally enforcing social distancing standards in the lobby. In addition, theater maximum capacity was reduced by 50% by Regal and 60% by AMC, and both companies began providing hand sanitizer. </p>
+                <p class="basicp"> Despite the safety precautions, going to the movies still may not be a good idea as doctors generally recommend against it. COVID-19 can be transmitted through the air, from droplets generated in our mouths that move around through laughing, breathing, speaking, coughing, or sneezing. Another local student commented “I don’t care how safe they try to make it; I’m not sitting in a theater with multiple people during a pandemic.” There may indeed be a good case to be made that sitting in a closed room with poor air circulation with people who may or may not be wearing their masks as directed for hours is not a very good idea. </p>
+                <p class="basicp"> Despite all the health concerns, safety regulations, and theater economy, some new movies are still being released. Tenet, for example, opted for a full theatrical release. With many US theaters still being closed, Tenet was not expected to perform very well at the box office. As expected, the Christopher Nolan movie garnered what was estimated to be $9.5 million dollars on opening weekend. $9.5 million dollars sure does sound like a lot of money, but when compared to another older Nolan film, Interstellar, which had a $47.5 million dollar opening weekend box office, the difference is apparent. </p>
+                <p class="basicp"> Other movie studios, such as the ones behind Wonder Woman 1984 and Black Widow, decided to delay to later release dates following Tenet’s disappointing release. Disney, however, decided to take advantage of their new streaming platform, Disney Plus, to release their movie Mulan to an estimated $93 million dollars equivalent in box office income, blowing Tenet out of the water and displaying the potential of online streaming platforms. </p>
+                </div>
+            </div>
+
+
+
+        </div>
+
+
+        <div id="lateartic">
+
+            <h2> Recommended Articles</h2>
+            <div><a href="4.html"><img src="white1.png">
+                <div class="imgdesc">
+                    <h3> The Thing Behind the Door</h3>
+                </div></a>
+            </div>
+            <div><a href="3.html"><img src="white1.png">
+                <div class="imgdesc">
+                    <h3> Avengers Endgame: What McGuffins Are and Why They Suck</h3>
+                </div></a>
+            </div>
+            <div><a href="2.html"><img src="white1.png">
+                <div class="imgdesc">
+                    <h3> The Real Cost of the 2002 Financial Crisis</h3>
+                </div></a>
+            </div>
+        </div>
+
+    </main>
+</body></html>
