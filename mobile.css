@@ -4,7 +4,7 @@
 
 header {
     background: #3c3f58;
-    width: calc(100%);
+    width: calc(140%);
 }
 
 body {
@@ -16,6 +16,7 @@ body {
 main {
     font-family: 'Bebas Neue', cursive;
     color: white;
+    width: 750px;
 }
 
 nav {
